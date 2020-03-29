@@ -1,0 +1,108 @@
+C:\Users\BERA YILMAZ\source\repos\UI\UI\bin\Debug\UI.exe.config
+C:\Users\BERA YILMAZ\source\repos\UI\UI\bin\Debug\UI.exe
+C:\Users\BERA YILMAZ\source\repos\UI\UI\bin\Debug\UI.pdb
+C:\Users\BERA YILMAZ\source\repos\UI\UI\bin\Debug\BLL.exe
+C:\Users\BERA YILMAZ\source\repos\UI\UI\bin\Debug\DAL.exe
+C:\Users\BERA YILMAZ\source\repos\UI\UI\bin\Debug\System.Data.SQLite.dll
+C:\Users\BERA YILMAZ\source\repos\UI\UI\bin\Debug\BLL.pdb
+C:\Users\BERA YILMAZ\source\repos\UI\UI\bin\Debug\BLL.exe.config
+C:\Users\BERA YILMAZ\source\repos\UI\UI\bin\Debug\DAL.pdb
+C:\Users\BERA YILMAZ\source\repos\UI\UI\bin\Debug\DAL.exe.config
+C:\Users\BERA YILMAZ\source\repos\UI\UI\bin\Debug\System.Data.SQLite.xml
+C:\Users\BERA YILMAZ\source\repos\UI\UI\obj\Debug\UI.csprojAssemblyReference.cache
+C:\Users\BERA YILMAZ\source\repos\UI\UI\obj\Debug\UI.Adminpage.resources
+C:\Users\BERA YILMAZ\source\repos\UI\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\BERA YILMAZ\source\repos\UI\UI\obj\Debug\UI.csproj.GenerateResource.cache
+C:\Users\BERA YILMAZ\source\repos\UI\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\BERA YILMAZ\source\repos\UI\UI\obj\Debug\UI.csproj.CopyComplete
+C:\Users\BERA YILMAZ\source\repos\UI\UI\obj\Debug\UI.exe
+C:\Users\BERA YILMAZ\source\repos\UI\UI\obj\Debug\UI.pdb
+C:\Users\BERA YILMAZ\source\repos\UI\UI\obj\Debug\UI.AdminAdd.resources
+C:\Users\BERA YILMAZ\source\repos\UI\UI\obj\Debug\UI.MainForm.resources
+C:\Users\BERA YILMAZ\source\repos\UI\UI\obj\Debug\UI.AdminLoginpage.resources
+C:\Users\BERA YILMAZ\source\repos\UI\UI\obj\Debug\UI.BrideGroomLogin.resources
+C:\Users\BERA YILMAZ\source\repos\UI\UI\obj\Debug\UI.BrideGroomPage.resources
+C:\Users\BERA YILMAZ\source\repos\UI\UI\obj\Debug\UI.BrideList.resources
+C:\Users\BERA YILMAZ\source\repos\UI\UI\obj\Debug\UI.BrideAdd.resources
+C:\Users\BERA YILMAZ\source\repos\UI\UI\obj\Debug\UI.BrideUpdate.resources
+C:\Users\BERA YILMAZ\source\repos\UI\UI\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\BERA YILMAZ\source\repos\UI\UI\obj\Debug\UI.GroomAdd.resources
+C:\Users\BERA YILMAZ\source\repos\UI\UI\obj\Debug\UI.GroomList.resources
+C:\Users\BERA YILMAZ\source\repos\UI\UI\obj\Debug\UI.MarriagewAdd.resources
+C:\Users\BERA YILMAZ\source\repos\UI\UI\obj\Debug\UI.MarriagewList.resources
+C:\Users\BERA YILMAZ\source\repos\UI\UI\obj\Debug\UI.BrideSearch.resources
+C:\Users\BERA YILMAZ\source\repos\UI\UI\obj\Debug\UI.GroomSearch.resources
+C:\Users\BERA YILMAZ\source\repos\UI\UI\obj\Debug\UI.GuestAdd.resources
+C:\Users\BERA YILMAZ\source\repos\UI\UI\obj\Debug\UI.GuestList.resources
+C:\Users\elift\source\repos\UI\UI\bin\Debug\UI.exe.config
+C:\Users\elift\source\repos\UI\UI\bin\Debug\UI.exe
+C:\Users\elift\source\repos\UI\UI\bin\Debug\UI.pdb
+C:\Users\elift\source\repos\UI\UI\bin\Debug\BLL.exe
+C:\Users\elift\source\repos\UI\UI\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\elift\source\repos\UI\UI\bin\Debug\DAL.exe
+C:\Users\elift\source\repos\UI\UI\bin\Debug\System.Data.SQLite.dll
+C:\Users\elift\source\repos\UI\UI\bin\Debug\BLL.pdb
+C:\Users\elift\source\repos\UI\UI\bin\Debug\BLL.exe.config
+C:\Users\elift\source\repos\UI\UI\bin\Debug\DAL.pdb
+C:\Users\elift\source\repos\UI\UI\bin\Debug\DAL.exe.config
+C:\Users\elift\source\repos\UI\UI\bin\Debug\System.Data.SQLite.xml
+C:\Users\elift\source\repos\UI\UI\obj\Debug\UI.csprojAssemblyReference.cache
+C:\Users\elift\source\repos\UI\UI\obj\Debug\UI.AdminAdd.resources
+C:\Users\elift\source\repos\UI\UI\obj\Debug\UI.Adminpage.resources
+C:\Users\elift\source\repos\UI\UI\obj\Debug\UI.AdminLoginpage.resources
+C:\Users\elift\source\repos\UI\UI\obj\Debug\UI.BrideAdd.resources
+C:\Users\elift\source\repos\UI\UI\obj\Debug\UI.BrideGroomLogin.resources
+C:\Users\elift\source\repos\UI\UI\obj\Debug\UI.BrideGroomPage.resources
+C:\Users\elift\source\repos\UI\UI\obj\Debug\UI.BrideList.resources
+C:\Users\elift\source\repos\UI\UI\obj\Debug\UI.BrideSearch.resources
+C:\Users\elift\source\repos\UI\UI\obj\Debug\UI.BrideUpdate.resources
+C:\Users\elift\source\repos\UI\UI\obj\Debug\UI.GroomAdd.resources
+C:\Users\elift\source\repos\UI\UI\obj\Debug\UI.GroomList.resources
+C:\Users\elift\source\repos\UI\UI\obj\Debug\UI.GroomSearch.resources
+C:\Users\elift\source\repos\UI\UI\obj\Debug\UI.GuestAdd.resources
+C:\Users\elift\source\repos\UI\UI\obj\Debug\UI.GuestList.resources
+C:\Users\elift\source\repos\UI\UI\obj\Debug\UI.MainForm.resources
+C:\Users\elift\source\repos\UI\UI\obj\Debug\UI.MarriagewAdd.resources
+C:\Users\elift\source\repos\UI\UI\obj\Debug\UI.MarriagewList.resources
+C:\Users\elift\source\repos\UI\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\elift\source\repos\UI\UI\obj\Debug\UI.csproj.GenerateResource.cache
+C:\Users\elift\source\repos\UI\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\elift\source\repos\UI\UI\obj\Debug\UI.csproj.CopyComplete
+C:\Users\elift\source\repos\UI\UI\obj\Debug\UI.exe
+C:\Users\elift\source\repos\UI\UI\obj\Debug\UI.pdb
+C:\Users\elift\Desktop\ders\Nesne Programlama C#\UI\UI\bin\Debug\UI.exe.config
+C:\Users\elift\Desktop\ders\Nesne Programlama C#\UI\UI\bin\Debug\UI.exe
+C:\Users\elift\Desktop\ders\Nesne Programlama C#\UI\UI\bin\Debug\UI.pdb
+C:\Users\elift\Desktop\ders\Nesne Programlama C#\UI\UI\bin\Debug\BLL.exe
+C:\Users\elift\Desktop\ders\Nesne Programlama C#\UI\UI\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\elift\Desktop\ders\Nesne Programlama C#\UI\UI\bin\Debug\DAL.exe
+C:\Users\elift\Desktop\ders\Nesne Programlama C#\UI\UI\bin\Debug\System.Data.SQLite.dll
+C:\Users\elift\Desktop\ders\Nesne Programlama C#\UI\UI\bin\Debug\BLL.pdb
+C:\Users\elift\Desktop\ders\Nesne Programlama C#\UI\UI\bin\Debug\BLL.exe.config
+C:\Users\elift\Desktop\ders\Nesne Programlama C#\UI\UI\bin\Debug\DAL.pdb
+C:\Users\elift\Desktop\ders\Nesne Programlama C#\UI\UI\bin\Debug\DAL.exe.config
+C:\Users\elift\Desktop\ders\Nesne Programlama C#\UI\UI\bin\Debug\System.Data.SQLite.xml
+C:\Users\elift\Desktop\ders\Nesne Programlama C#\UI\UI\obj\Debug\UI.csprojAssemblyReference.cache
+C:\Users\elift\Desktop\ders\Nesne Programlama C#\UI\UI\obj\Debug\UI.AdminAdd.resources
+C:\Users\elift\Desktop\ders\Nesne Programlama C#\UI\UI\obj\Debug\UI.Adminpage.resources
+C:\Users\elift\Desktop\ders\Nesne Programlama C#\UI\UI\obj\Debug\UI.AdminLoginpage.resources
+C:\Users\elift\Desktop\ders\Nesne Programlama C#\UI\UI\obj\Debug\UI.BrideAdd.resources
+C:\Users\elift\Desktop\ders\Nesne Programlama C#\UI\UI\obj\Debug\UI.BrideGroomLogin.resources
+C:\Users\elift\Desktop\ders\Nesne Programlama C#\UI\UI\obj\Debug\UI.BrideGroomPage.resources
+C:\Users\elift\Desktop\ders\Nesne Programlama C#\UI\UI\obj\Debug\UI.BrideList.resources
+C:\Users\elift\Desktop\ders\Nesne Programlama C#\UI\UI\obj\Debug\UI.BrideSearch.resources
+C:\Users\elift\Desktop\ders\Nesne Programlama C#\UI\UI\obj\Debug\UI.BrideUpdate.resources
+C:\Users\elift\Desktop\ders\Nesne Programlama C#\UI\UI\obj\Debug\UI.GroomAdd.resources
+C:\Users\elift\Desktop\ders\Nesne Programlama C#\UI\UI\obj\Debug\UI.GroomList.resources
+C:\Users\elift\Desktop\ders\Nesne Programlama C#\UI\UI\obj\Debug\UI.GroomSearch.resources
+C:\Users\elift\Desktop\ders\Nesne Programlama C#\UI\UI\obj\Debug\UI.GuestAdd.resources
+C:\Users\elift\Desktop\ders\Nesne Programlama C#\UI\UI\obj\Debug\UI.GuestList.resources
+C:\Users\elift\Desktop\ders\Nesne Programlama C#\UI\UI\obj\Debug\UI.MainForm.resources
+C:\Users\elift\Desktop\ders\Nesne Programlama C#\UI\UI\obj\Debug\UI.MarriagewAdd.resources
+C:\Users\elift\Desktop\ders\Nesne Programlama C#\UI\UI\obj\Debug\UI.MarriagewList.resources
+C:\Users\elift\Desktop\ders\Nesne Programlama C#\UI\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\elift\Desktop\ders\Nesne Programlama C#\UI\UI\obj\Debug\UI.csproj.GenerateResource.cache
+C:\Users\elift\Desktop\ders\Nesne Programlama C#\UI\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\elift\Desktop\ders\Nesne Programlama C#\UI\UI\obj\Debug\UI.csproj.CopyComplete
+C:\Users\elift\Desktop\ders\Nesne Programlama C#\UI\UI\obj\Debug\UI.exe
+C:\Users\elift\Desktop\ders\Nesne Programlama C#\UI\UI\obj\Debug\UI.pdb

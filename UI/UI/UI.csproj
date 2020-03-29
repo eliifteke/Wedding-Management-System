@@ -1,0 +1,292 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{2415F803-A304-47F6-8ED9-2A642CBC4207}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>UI</RootNamespace>
+    <AssemblyName>UI</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="BouncyCastle.Crypto, Version=1.8.5.0, Culture=neutral, PublicKeyToken=0e99375e54769942">
+      <HintPath>..\packages\BouncyCastle.1.8.5\lib\BouncyCastle.Crypto.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AdminAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminAdd.Designer.cs">
+      <DependentUpon>AdminAdd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Adminpage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Adminpage.Designer.cs">
+      <DependentUpon>Adminpage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminLoginpage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminLoginpage.Designer.cs">
+      <DependentUpon>AdminLoginpage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BrideAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BrideAdd.Designer.cs">
+      <DependentUpon>BrideAdd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BrideGroomLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BrideGroomLogin.Designer.cs">
+      <DependentUpon>BrideGroomLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BrideGroomPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BrideGroomPage.Designer.cs">
+      <DependentUpon>BrideGroomPage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BrideList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BrideList.Designer.cs">
+      <DependentUpon>BrideList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BrideSearch.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BrideSearch.Designer.cs">
+      <DependentUpon>BrideSearch.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BrideUpdate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BrideUpdate.Designer.cs">
+      <DependentUpon>BrideUpdate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GroomAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GroomAdd.Designer.cs">
+      <DependentUpon>GroomAdd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GroomList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GroomList.Designer.cs">
+      <DependentUpon>GroomList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GroomSearch.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GroomSearch.Designer.cs">
+      <DependentUpon>GroomSearch.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GuestAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GuestAdd.Designer.cs">
+      <DependentUpon>GuestAdd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GuestList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GuestList.Designer.cs">
+      <DependentUpon>GuestList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MarriagewAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MarriagewAdd.Designer.cs">
+      <DependentUpon>MarriagewAdd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MarriagewList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MarriagewList.Designer.cs">
+      <DependentUpon>MarriagewList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="AdminAdd.resx">
+      <DependentUpon>AdminAdd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Adminpage.resx">
+      <DependentUpon>Adminpage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminLoginpage.resx">
+      <DependentUpon>AdminLoginpage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BrideAdd.resx">
+      <DependentUpon>BrideAdd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BrideGroomLogin.resx">
+      <DependentUpon>BrideGroomLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BrideGroomPage.resx">
+      <DependentUpon>BrideGroomPage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BrideList.resx">
+      <DependentUpon>BrideList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BrideSearch.resx">
+      <DependentUpon>BrideSearch.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BrideUpdate.resx">
+      <DependentUpon>BrideUpdate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GroomAdd.resx">
+      <DependentUpon>GroomAdd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GroomList.resx">
+      <DependentUpon>GroomList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GroomSearch.resx">
+      <DependentUpon>GroomSearch.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GuestAdd.resx">
+      <DependentUpon>GuestAdd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GuestList.resx">
+      <DependentUpon>GuestList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MarriagewAdd.resx">
+      <DependentUpon>MarriagewAdd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MarriagewList.resx">
+      <DependentUpon>MarriagewList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BLL\BLL.csproj">
+      <Project>{938e91b1-5374-44fb-a62f-bb57f4ced4ae}</Project>
+      <Name>BLL</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\weddingg.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\weddings-masthead.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\admin.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\785-7855950_business-man-and-woman-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\business-woman-call-center_40876-29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\785-7855950_business-man-and-woman-icon1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\weddings-masthead1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\flat.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\çiçek.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\çiçek1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\papyon.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wedding.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\A-Chic-Rustic-Wedding-on-the-Foreshore-Bridal-Party-1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\A-Chic-Rustic-Wedding-on-the-Foreshore-Bridal-Party-11.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\çiçek2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\weddings.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\weddings1.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

@@ -1,0 +1,39 @@
+C:\Users\BERA YILMAZ\source\repos\UI\BLL\bin\Debug\BLL.exe.config
+C:\Users\BERA YILMAZ\source\repos\UI\BLL\bin\Debug\BLL.exe
+C:\Users\BERA YILMAZ\source\repos\UI\BLL\bin\Debug\BLL.pdb
+C:\Users\BERA YILMAZ\source\repos\UI\BLL\bin\Debug\DAL.exe
+C:\Users\BERA YILMAZ\source\repos\UI\BLL\bin\Debug\System.Data.SQLite.dll
+C:\Users\BERA YILMAZ\source\repos\UI\BLL\bin\Debug\DAL.pdb
+C:\Users\BERA YILMAZ\source\repos\UI\BLL\bin\Debug\DAL.exe.config
+C:\Users\BERA YILMAZ\source\repos\UI\BLL\bin\Debug\System.Data.SQLite.xml
+C:\Users\BERA YILMAZ\source\repos\UI\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\BERA YILMAZ\source\repos\UI\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\BERA YILMAZ\source\repos\UI\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\BERA YILMAZ\source\repos\UI\BLL\obj\Debug\BLL.exe
+C:\Users\BERA YILMAZ\source\repos\UI\BLL\obj\Debug\BLL.pdb
+C:\Users\elift\source\repos\UI\BLL\bin\Debug\BLL.exe.config
+C:\Users\elift\source\repos\UI\BLL\bin\Debug\BLL.exe
+C:\Users\elift\source\repos\UI\BLL\bin\Debug\BLL.pdb
+C:\Users\elift\source\repos\UI\BLL\bin\Debug\DAL.exe
+C:\Users\elift\source\repos\UI\BLL\bin\Debug\System.Data.SQLite.dll
+C:\Users\elift\source\repos\UI\BLL\bin\Debug\DAL.pdb
+C:\Users\elift\source\repos\UI\BLL\bin\Debug\DAL.exe.config
+C:\Users\elift\source\repos\UI\BLL\bin\Debug\System.Data.SQLite.xml
+C:\Users\elift\source\repos\UI\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\elift\source\repos\UI\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\elift\source\repos\UI\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\elift\source\repos\UI\BLL\obj\Debug\BLL.exe
+C:\Users\elift\source\repos\UI\BLL\obj\Debug\BLL.pdb
+C:\Users\elift\Desktop\ders\Nesne Programlama C#\UI\BLL\bin\Debug\BLL.exe.config
+C:\Users\elift\Desktop\ders\Nesne Programlama C#\UI\BLL\bin\Debug\BLL.exe
+C:\Users\elift\Desktop\ders\Nesne Programlama C#\UI\BLL\bin\Debug\BLL.pdb
+C:\Users\elift\Desktop\ders\Nesne Programlama C#\UI\BLL\bin\Debug\DAL.exe
+C:\Users\elift\Desktop\ders\Nesne Programlama C#\UI\BLL\bin\Debug\System.Data.SQLite.dll
+C:\Users\elift\Desktop\ders\Nesne Programlama C#\UI\BLL\bin\Debug\DAL.pdb
+C:\Users\elift\Desktop\ders\Nesne Programlama C#\UI\BLL\bin\Debug\DAL.exe.config
+C:\Users\elift\Desktop\ders\Nesne Programlama C#\UI\BLL\bin\Debug\System.Data.SQLite.xml
+C:\Users\elift\Desktop\ders\Nesne Programlama C#\UI\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\elift\Desktop\ders\Nesne Programlama C#\UI\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\elift\Desktop\ders\Nesne Programlama C#\UI\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\elift\Desktop\ders\Nesne Programlama C#\UI\BLL\obj\Debug\BLL.exe
+C:\Users\elift\Desktop\ders\Nesne Programlama C#\UI\BLL\obj\Debug\BLL.pdb

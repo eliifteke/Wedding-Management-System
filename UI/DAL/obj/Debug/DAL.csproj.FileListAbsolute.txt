@@ -1,0 +1,63 @@
+C:\Users\BERA YILMAZ\source\repos\UI\DAL\bin\Debug\DAL.exe.config
+C:\Users\BERA YILMAZ\source\repos\UI\DAL\bin\Debug\DAL.exe
+C:\Users\BERA YILMAZ\source\repos\UI\DAL\bin\Debug\DAL.pdb
+C:\Users\BERA YILMAZ\source\repos\UI\DAL\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\BERA YILMAZ\source\repos\UI\DAL\bin\Debug\EntityFramework.dll
+C:\Users\BERA YILMAZ\source\repos\UI\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\BERA YILMAZ\source\repos\UI\DAL\bin\Debug\Google.Protobuf.dll
+C:\Users\BERA YILMAZ\source\repos\UI\DAL\bin\Debug\MySql.Data.dll
+C:\Users\BERA YILMAZ\source\repos\UI\DAL\bin\Debug\System.Data.SQLite.dll
+C:\Users\BERA YILMAZ\source\repos\UI\DAL\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\BERA YILMAZ\source\repos\UI\DAL\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\BERA YILMAZ\source\repos\UI\DAL\bin\Debug\EntityFramework.xml
+C:\Users\BERA YILMAZ\source\repos\UI\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\BERA YILMAZ\source\repos\UI\DAL\bin\Debug\Google.Protobuf.xml
+C:\Users\BERA YILMAZ\source\repos\UI\DAL\bin\Debug\MySql.Data.xml
+C:\Users\BERA YILMAZ\source\repos\UI\DAL\bin\Debug\System.Data.SQLite.xml
+C:\Users\BERA YILMAZ\source\repos\UI\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\BERA YILMAZ\source\repos\UI\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\BERA YILMAZ\source\repos\UI\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\BERA YILMAZ\source\repos\UI\DAL\obj\Debug\DAL.exe
+C:\Users\BERA YILMAZ\source\repos\UI\DAL\obj\Debug\DAL.pdb
+C:\Users\elift\source\repos\UI\DAL\bin\Debug\DAL.exe.config
+C:\Users\elift\source\repos\UI\DAL\bin\Debug\DAL.exe
+C:\Users\elift\source\repos\UI\DAL\bin\Debug\DAL.pdb
+C:\Users\elift\source\repos\UI\DAL\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\elift\source\repos\UI\DAL\bin\Debug\EntityFramework.dll
+C:\Users\elift\source\repos\UI\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\elift\source\repos\UI\DAL\bin\Debug\Google.Protobuf.dll
+C:\Users\elift\source\repos\UI\DAL\bin\Debug\MySql.Data.dll
+C:\Users\elift\source\repos\UI\DAL\bin\Debug\System.Data.SQLite.dll
+C:\Users\elift\source\repos\UI\DAL\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\elift\source\repos\UI\DAL\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\elift\source\repos\UI\DAL\bin\Debug\EntityFramework.xml
+C:\Users\elift\source\repos\UI\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\elift\source\repos\UI\DAL\bin\Debug\Google.Protobuf.xml
+C:\Users\elift\source\repos\UI\DAL\bin\Debug\MySql.Data.xml
+C:\Users\elift\source\repos\UI\DAL\bin\Debug\System.Data.SQLite.xml
+C:\Users\elift\source\repos\UI\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\elift\source\repos\UI\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\elift\source\repos\UI\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\elift\source\repos\UI\DAL\obj\Debug\DAL.exe
+C:\Users\elift\source\repos\UI\DAL\obj\Debug\DAL.pdb
+C:\Users\elift\Desktop\ders\Nesne Programlama C#\UI\DAL\bin\Debug\DAL.exe.config
+C:\Users\elift\Desktop\ders\Nesne Programlama C#\UI\DAL\bin\Debug\DAL.exe
+C:\Users\elift\Desktop\ders\Nesne Programlama C#\UI\DAL\bin\Debug\DAL.pdb
+C:\Users\elift\Desktop\ders\Nesne Programlama C#\UI\DAL\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\elift\Desktop\ders\Nesne Programlama C#\UI\DAL\bin\Debug\EntityFramework.dll
+C:\Users\elift\Desktop\ders\Nesne Programlama C#\UI\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\elift\Desktop\ders\Nesne Programlama C#\UI\DAL\bin\Debug\Google.Protobuf.dll
+C:\Users\elift\Desktop\ders\Nesne Programlama C#\UI\DAL\bin\Debug\MySql.Data.dll
+C:\Users\elift\Desktop\ders\Nesne Programlama C#\UI\DAL\bin\Debug\System.Data.SQLite.dll
+C:\Users\elift\Desktop\ders\Nesne Programlama C#\UI\DAL\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\elift\Desktop\ders\Nesne Programlama C#\UI\DAL\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\elift\Desktop\ders\Nesne Programlama C#\UI\DAL\bin\Debug\EntityFramework.xml
+C:\Users\elift\Desktop\ders\Nesne Programlama C#\UI\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\elift\Desktop\ders\Nesne Programlama C#\UI\DAL\bin\Debug\Google.Protobuf.xml
+C:\Users\elift\Desktop\ders\Nesne Programlama C#\UI\DAL\bin\Debug\MySql.Data.xml
+C:\Users\elift\Desktop\ders\Nesne Programlama C#\UI\DAL\bin\Debug\System.Data.SQLite.xml
+C:\Users\elift\Desktop\ders\Nesne Programlama C#\UI\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\elift\Desktop\ders\Nesne Programlama C#\UI\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\elift\Desktop\ders\Nesne Programlama C#\UI\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\elift\Desktop\ders\Nesne Programlama C#\UI\DAL\obj\Debug\DAL.exe
+C:\Users\elift\Desktop\ders\Nesne Programlama C#\UI\DAL\obj\Debug\DAL.pdb
